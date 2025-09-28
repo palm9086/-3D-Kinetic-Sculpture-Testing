@@ -1,5 +1,5 @@
 # -3D-Kinetic-Sculpture-Testing
-Testing
+
 Credit to Jinsters for 3d padoru model
 https://jinsters.booth.pm/items/1720664
 
