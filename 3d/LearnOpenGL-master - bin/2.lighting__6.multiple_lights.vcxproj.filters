@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\src\2.lighting\6.multiple_lights\multiple_lights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\src\2.lighting\6.multiple_lights\6.light_cube.fs" />
+    <None Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\src\2.lighting\6.multiple_lights\6.light_cube.vs" />
+    <None Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\src\2.lighting\6.multiple_lights\6.multiple_lights.fs" />
+    <None Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\src\2.lighting\6.multiple_lights\6.multiple_lights.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{58A85094-5455-3CF7-9EAD-388D36345F0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
