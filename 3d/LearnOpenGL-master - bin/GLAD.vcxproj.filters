@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\src\glad.c">
+    <ClCompile Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3D\LearnOpenGL-master\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3d\LearnOpenGL-master\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\User\Documents\GitHub\-3D-Kinetic-Sculpture-Testing\3D\LearnOpenGL-master\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{58A85094-5455-3CF7-9EAD-388D36345F0D}</UniqueIdentifier>
+      <UniqueIdentifier>{42004E64-5EE2-3751-BF72-022829C0777D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
