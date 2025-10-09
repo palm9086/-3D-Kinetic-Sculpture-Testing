@@ -1,5 +1,0 @@
-C:/Users/User/Documents/GitHub/-3D-Kinetic-Sculpture-Testing/3D/LearnOpenGL-master - bin/CMakeFiles/STB_IMAGE.dir
-C:/Users/User/Documents/GitHub/-3D-Kinetic-Sculpture-Testing/3D/LearnOpenGL-master - bin/CMakeFiles/GLAD.dir
-C:/Users/User/Documents/GitHub/-3D-Kinetic-Sculpture-Testing/3D/LearnOpenGL-master - bin/CMakeFiles/2.lighting__6.multiple_lights.dir
-C:/Users/User/Documents/GitHub/-3D-Kinetic-Sculpture-Testing/3D/LearnOpenGL-master - bin/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/Documents/GitHub/-3D-Kinetic-Sculpture-Testing/3D/LearnOpenGL-master - bin/CMakeFiles/ZERO_CHECK.dir
