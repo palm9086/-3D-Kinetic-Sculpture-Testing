@@ -14,3 +14,7 @@ max create is set in #define maxPadoru default is 100,000
 screen is 16:9
 wasd to move 
 scoll to zoom
+
+
+https://github.com/user-attachments/assets/92adf3fd-4d5c-4b05-9cd2-b4df82b7bf13
+
